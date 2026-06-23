@@ -12,13 +12,3 @@
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
 - **Libraries - Kütüphaneler:** OpenCV, matplotlib.pyplot, os, glob, numpy,imutils, easyocr, pandas
-
-## 💻 Installation & Setup - Yükleme ve Kurulum 
-
-# Create and activate a virtual environment
-python3 -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
