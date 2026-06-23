@@ -11,17 +11,9 @@
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
-- **Libraries:Kütüphaneler** OpenCV, 
+- **Libraries - Kütüphaneler:** OpenCV, matplotlib.pyplot, os, glob, numpy,imutils, easyocr, pandas
 
-## 📊 Performance Metrics & Results
-- **Latency Reduction:** Decreased inference latency by **40%** (from 45ms to 27ms) using TensorRT optimization.
-- **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
-- **Database Speed:** Reduced query response times by **150ms** through strategic database replication setups and indexing.
-
-## 💻 Installation & Setup
-
-Follow these steps to run the project locally:
-
+## 💻 Installation & Setup - Yükleme ve Kurulum 
 
 # Create and activate a virtual environment
 python3 -m venv venv
